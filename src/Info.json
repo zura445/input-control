@@ -1,0 +1,20 @@
+[
+  {
+    "title": "The Art of Coding",
+    "content": "Coding is not just about writing lines of code; it's an art form that requires creativity and problem-solving skills.",
+    "author": "Jane Smith",
+    "id": 1
+  },
+  {
+    "title": "Exploring the Universe",
+    "content": "The universe is vast and mysterious, filled with countless galaxies and wonders waiting to be discovered.",
+    "author": "David Lee",
+    "id": 2
+  },
+  {
+    "title": "The Power of Music",
+    "content": "Music has the ability to evoke emotions and connect people across cultures and languages.",
+    "author": "Emily White",
+    "id": 3
+  }
+]
